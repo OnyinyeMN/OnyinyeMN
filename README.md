@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @OnyinyeMN
-- 👀 I’m interested in product design 
-- 🌱 I’m currently learning UI/UX Design
-- 💞️ I’m looking to collaborate on web and app development projects.
+- 👀 I’m interested in product marketing  
+- 🌱 I’m currently learning Digital marketing
+- 💞️ I’m looking to collaborate on marketing projects 
 - 📫 You can reach me at onyinyemiken@gmail.com
 
 <!---
